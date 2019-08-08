@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+#toast-container{
+    background: #45a228c4 !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    width: 42% !important;
+    border-radius: 3px;
+    position: absolute;
+    top: 22%;
+    margin: 1px 29%;
+}
+.ngx-pagination{
+    margin: 10px 0;
+    padding: 0!important;
+}

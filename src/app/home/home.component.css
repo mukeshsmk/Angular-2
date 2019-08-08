@@ -1,0 +1,11 @@
+.invalid-feedback{
+    color: red;
+}
+
+.overlay-container{
+
+    background: #45a228c4 !important;
+    color: #ffffff !important; 
+    text-align: center !important;
+    width: 40% !important;  
+}
